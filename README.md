@@ -26,4 +26,9 @@
 ![](twon7.gif)
 
 
+### Archive of chosen combinations
+
+![](/chosen/2.jpg)
+
+
 
