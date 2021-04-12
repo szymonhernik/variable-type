@@ -2,7 +2,7 @@
 
 ## Animated combinations of letters
 
-![Letters animation Python Scripting .gif format](all3.gif)
+![Letters animation Python Scripting .gif format](animated/all3.gif)
 
 ## Single Letters
 
