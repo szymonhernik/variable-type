@@ -37,9 +37,9 @@ for i in range(frames):
 
 ```
 
-![Single letter animation py script](S8.gif | width=200)
-![Single letter animation py script](gif14_b.gif | width=200)
-![Single letter animation py script](C.gif | width=200)
+![Single letter animation py script](S8.gif){:height="300px" width="300px"}
+![Single letter animation py script](gif14_b.gif){:height="300px" width="300px"}
+![Single letter animation py script](C.gif){:height="300px" width="300px"}
 
 
 ## Presentation of the letters which don't include circular shapes. That demonstrates how it does look without letters overlapping much and without the contrast added by the way the circularly shaped latters behave. 
