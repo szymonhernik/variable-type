@@ -37,7 +37,8 @@ for i in range(frames):
 
 ```
 
-![Single letter animation py script](S8.gif){:height="300px" width="300px"}
+
+<img src="S8.gif" width="100" height="100">
 ![Single letter animation py script](gif14_b.gif){:height="300px" width="300px"}
 ![Single letter animation py script](C.gif){:height="300px" width="300px"}
 
