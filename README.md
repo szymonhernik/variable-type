@@ -45,7 +45,7 @@ for i in range(frames):
 
 ### Archive of chosen combinations
 
-![](/chosen/_0.jpg)
+Step by step transition 
 ![](/chosen/_1.jpg)
 ![](/chosen/_2.jpg)
 ![](/chosen/_3.jpg)
@@ -61,11 +61,12 @@ for i in range(frames):
 ![](/chosen/_13.jpg)
 
 
-
+Mixed 
 ![](/chosen/2.jpg)
 ![](/chosen/3.jpg)
 ![](/chosen/4.jpg)
 ![](/chosen/5.jpg)
+![](/chosen/_0.jpg)
 ![](/chosen/6.jpg)
 ![](/chosen/7.jpg)
 ![](/chosen/8.jpg)
