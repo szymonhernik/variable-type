@@ -1,19 +1,10 @@
 # Letter-Studio-Python-Process
 # Gif and more of chosen combinations.
 
-## One of the main animated combinations
+## Animated combinations of letters
 
+![](all3.gif)
 ![](twon12.gif)
-
-
-## Test with changing the size of the page
-
-![](twonl-test-changing-pageSize.gif)
-
-
-## Test with changing the width and height of the glyphs
-
-![](twonl-test-changing-glyph-width-and-height.gif)
 
 
 ## Presentation of the letters which don't include circular shapes. That demonstrates how it does look without letters overlapping much and without the contrast added by the way the circularly shaped latters behave. 
@@ -54,6 +45,15 @@
 ![](/chosen/25.jpg)
 ![](/chosen/26.jpg)
 ![](/chosen/twon12.jpg)
+
+## Test with changing the size of the page
+
+![](twonl-test-changing-pageSize.gif)
+
+
+## Test with changing the width and height of the glyphs
+
+![](twonl-test-changing-glyph-width-and-height.gif)
 
 
 
