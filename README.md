@@ -1,5 +1,4 @@
-# Letter-Studio-Python-Process
-# Gif and more of chosen combinations.
+# Python Scripting Process (.gifs and selected combinations)
 
 ## Animated combinations of letters
 
