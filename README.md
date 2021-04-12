@@ -43,17 +43,25 @@ for i in range(frames):
 <img src="C.gif" alt="Single letter animation py script" width="300" >
 
 
-## Presentation of the letters which don't include circular shapes. That demonstrates how it does look without letters overlapping much and without the contrast added by the way the circularly shaped latters behave. 
-
-![](twon14.gif)
-
-
-## One other animated combination
-
-![](twon7.gif)
-
 
 ### Archive of chosen combinations
+
+![](/chosen/_0.jpg)
+![](/chosen/_1.jpg)
+![](/chosen/_2.jpg)
+![](/chosen/_3.jpg)
+![](/chosen/_4.jpg)
+![](/chosen/_5.jpg)
+![](/chosen/_6.jpg)
+![](/chosen/_7.jpg)
+![](/chosen/_8.jpg)
+![](/chosen/_9.jpg)
+![](/chosen/_10.jpg)
+![](/chosen/_11.jpg)
+![](/chosen/_12.jpg)
+![](/chosen/_13.jpg)
+
+
 
 ![](/chosen/2.jpg)
 ![](/chosen/3.jpg)
@@ -82,14 +90,25 @@ for i in range(frames):
 ![](/chosen/26.jpg)
 ![](/chosen/twon12.jpg)
 
-## Test with changing the size of the page
+# Not the best presentable part 
+
+### Test with changing the size of the page
 
 ![](twonl-test-changing-pageSize.gif)
 
 
-## Test with changing the width and height of the glyphs
+### Test with changing the width and height of the glyphs
 
 ![](twonl-test-changing-glyph-width-and-height.gif)
+
+### Presentation of the letters which don't include circular shapes. That demonstrates how it does look without letters overlapping much and without the contrast added by the way the circularly shaped latters behave. 
+
+![](twon14.gif)
+
+
+### One other animated combination
+
+![](twon7.gif)
 
 
 
