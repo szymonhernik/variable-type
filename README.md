@@ -38,7 +38,7 @@ for i in range(frames):
 ```
 
 
-<img src="S8.gif" alt="Single letter animation py script" width="250">
+<img src="S8.gif" alt="Single letter animation py script" width="250" float="left">
 <img src="gif14_b.gif" alt="Single letter animation py script" width="250">
 <img src="C.gif" alt="Single letter animation py script" width="250">
 
