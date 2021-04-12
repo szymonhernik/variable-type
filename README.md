@@ -7,6 +7,8 @@
 
 ## Single Letters
 
+<img src="S8.gif" alt="Single letter animation py script" width="300" >
+
 ```python
 for i in range(frames):
   factor = i / frames
@@ -37,8 +39,6 @@ for i in range(frames):
 
 ```
 
-
-<img src="S8.gif" alt="Single letter animation py script" width="300" >
 <img src="gif14_b.gif" alt="Single letter animation py script" width="300" >
 <img src="C.gif" alt="Single letter animation py script" width="300" >
 
