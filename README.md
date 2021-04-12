@@ -37,6 +37,10 @@ for i in range(frames):
 
 ```
 
+![Single letter animation py script](S8.gif)
+![Single letter animation py script](gif14_b.gif)
+![Single letter animation py script](C.gif)
+
 
 ## Presentation of the letters which don't include circular shapes. That demonstrates how it does look without letters overlapping much and without the contrast added by the way the circularly shaped latters behave. 
 
