@@ -40,7 +40,7 @@ for i in range(frames):
 
 <img src="S8.gif" alt="Single letter animation py script" width="250" align="left">
 <img src="gif14_b.gif" alt="Single letter animation py script" width="250" align="right">
-<img src="C.gif" alt="Single letter animation py script" width="250">
+<img src="C.gif" alt="Single letter animation py script" width="250" align="right">
 
 
 ## Presentation of the letters which don't include circular shapes. That demonstrates how it does look without letters overlapping much and without the contrast added by the way the circularly shaped latters behave. 
