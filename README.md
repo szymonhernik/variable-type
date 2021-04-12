@@ -6,21 +6,21 @@
 
 ## Single Letters
 
-<img src="S8.gif" alt="Single letter animation py script" width="300" >
+<img src="animated/S8.gif" alt="Single letter animation py script" width="300" >
 
 ```python
 for i in range(frames):
   factor = i / frames
-        
+
   thickness = startThickness + (nextThickness-startThickness) * factor
   middleLine = startMiddleLine + (nextMiddleLine-startMiddleLine) * factor
   roundness = startRoundness + (nextRoundness-startRoundness) * factor
   propNumb = startPropNumb + (nextPropNumb-startPropNumb) * factor
-        
-        
+
+
   if propNumb == 0:
   propNumb = 0.000001
-    
+
   newPage(glyphWidth , capHeight/4 * len(lines))
   translate(0, height()-capHeight)
 
@@ -38,14 +38,14 @@ for i in range(frames):
 
 ```
 
-<img src="gif14_b.gif" alt="Single letter animation py script" width="300" >
-<img src="C.gif" alt="Single letter animation py script" width="300" >
+<img src="animated/gif14_b.gif" alt="Single letter animation py script" width="300" >
+<img src="animated/C.gif" alt="Single letter animation py script" width="300" >
 
 
 
 ### Archive of chosen combinations
 
-Step by step transition 
+Step by step transition
 ![](/chosen/_1.jpg)
 ![](/chosen/_2.jpg)
 ![](/chosen/_3.jpg)
@@ -61,7 +61,7 @@ Step by step transition
 ![](/chosen/_13.jpg)
 
 
-Mixed 
+Mixed
 ![](/chosen/2.jpg)
 ![](/chosen/3.jpg)
 ![](/chosen/4.jpg)
@@ -90,25 +90,22 @@ Mixed
 ![](/chosen/26.jpg)
 ![](/chosen/twon12.jpg)
 
-# Not the best presentable part 
+# Not the best presentable part
 
 ### Test with changing the size of the page
 
-![](twonl-test-changing-pageSize.gif)
+![](animated/twonl-test-changing-pageSize.gif)
 
 
 ### Test with changing the width and height of the glyphs
 
-![](twonl-test-changing-glyph-width-and-height.gif)
+![](animated/twonl-test-changing-glyph-width-and-height.gif)
 
-### Presentation of the letters which don't include circular shapes. That demonstrates how it does look without letters overlapping much and without the contrast added by the way the circularly shaped latters behave. 
+### Presentation of the letters which don't include circular shapes. That demonstrates how it does look without letters overlapping much and without the contrast added by the way the circularly shaped latters behave.
 
-![](twon14.gif)
+![](animated/twon14.gif)
 
 
 ### One other animated combination
 
-![](twon7.gif)
-
-
-
+![](animated/twon7.gif)
